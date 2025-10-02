@@ -13,7 +13,7 @@
     </properties>
 
     <dependencies>
-        <!-- JUnit 5 -->
+
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
@@ -21,7 +21,6 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- JMH (optional; можно позже) -->
         <dependency>
             <groupId>org.openjdk.jmh</groupId>
             <artifactId>jmh-core</artifactId>
